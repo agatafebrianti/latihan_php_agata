@@ -1,0 +1,1 @@
+echo "Hallo selamat datang"; // Outputs a welcome message
